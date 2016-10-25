@@ -1,0 +1,33 @@
+{
+  "data" : {
+    "lookups" : [
+      "trait"
+    ],
+    "name" : "intent",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "intent",
+    "values" : [
+      {
+        "value" : "educations"
+      },
+      {
+        "value" : "github"
+      },
+      {
+        "value" : "greetings"
+      },
+      {
+        "value" : "hobbies"
+      },
+      {
+        "value" : "linkedin"
+      },
+      {
+        "value" : "projects"
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

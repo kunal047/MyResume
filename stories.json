@@ -1,0 +1,147 @@
+{
+  "data" : [
+    {
+      "name" : "",
+      "turns" : [
+        {
+          "user" : "Hello",
+          "entities" : [ ],
+          "operations" : [
+            {
+              "action" : "template-Hello. I am a Resume Chatbot."
+            },
+            {
+              "action" : "template-What would you like to know about,  Kunal ?"
+            },
+            {
+              "bookmark" : "loop"
+            },
+            {
+              "action" : "template-Please select any option from below ..."
+            }
+          ]
+        },
+        {
+          "branches" : [
+            [
+              {
+                "user" : "Education",
+                "entities" : [
+                  {
+                    "entity" : "intent",
+                    "value" : "\"educations\""
+                  }
+                ],
+                "operations" : [
+                  {
+                    "action" : "template-College : SVMIT (GTU) with 8.4 CGPA. You can check out my grades at http://bit.ly/2eAOA45"
+                  },
+                  {
+                    "jump" : "loop"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "user" : "Projects",
+                "entities" : [
+                  {
+                    "entity" : "intent",
+                    "value" : "\"projects\""
+                  }
+                ],
+                "operations" : [
+                  {
+                    "action" : "template-You are looking at one. ;-) . Some of the other projects he has done are..."
+                  },
+                  {
+                    "action" : "template-C++ - Offline Dictionary Application. "
+                  },
+                  {
+                    "action" : "template-Java - Music player with lyrics integrated using Swing and Musixmatch API."
+                  },
+                  {
+                    "action" : "template-Python - Scraping of website to get data (Historical Prices of Stocks, IPL match data)."
+                  },
+                  {
+                    "action" : "template-Worked on OCR based Android Application using OpenCV."
+                  },
+                  {
+                    "jump" : "loop"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "user" : "Hobbies",
+                "entities" : [
+                  {
+                    "entity" : "intent",
+                    "value" : "\"hobbies\""
+                  }
+                ],
+                "operations" : [
+                  {
+                    "action" : "template-Reading Novels, Reddit, Quora."
+                  },
+                  {
+                    "action" : "template-Playing Basketball."
+                  },
+                  {
+                    "action" : "template-Binge Watching."
+                  },
+                  {
+                    "jump" : "loop"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "user" : "Github",
+                "entities" : [
+                  {
+                    "entity" : "intent",
+                    "value" : "\"github\""
+                  }
+                ],
+                "operations" : [
+                  {
+                    "action" : "template-Here's a link to my profile :- https://github.com/kunal047."
+                  },
+                  {
+                    "action" : "template-If you want to look at my resume :- https://kunal047.github.io"
+                  },
+                  {
+                    "jump" : "loop"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "user" : "LinkedIn",
+                "entities" : [
+                  {
+                    "entity" : "intent",
+                    "value" : "\"linkedin\""
+                  }
+                ],
+                "operations" : [
+                  {
+                    "action" : "template-Here's a link to my profile :- https://linkedin.com/kunal047"
+                  },
+                  {
+                    "jump" : "loop"
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

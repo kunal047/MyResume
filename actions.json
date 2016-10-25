@@ -1,0 +1,163 @@
+{
+  "data" : [
+    {
+      "type" : "template",
+      "quickreplies" : [
+        "Education",
+        "Projects",
+        "Hobbies",
+        "Github",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id" : "template-Binge Watching.",
+      "type" : "template",
+      "template" : "Binge Watching."
+    },
+    {
+      "id" : "template-C++ - Offline Dictionary Application. ",
+      "type" : "template",
+      "template" : "C++ - Offline Dictionary Application. "
+    },
+    {
+      "id" : "template-College : SVMIT (GTU) with 8.4 CGPA. You can check out my grades at http://bit.ly/2eAOA45",
+      "type" : "template",
+      "template" : "College : SVMIT (GTU) with 8.4 CGPA. You can check out my grades at http://bit.ly/2eAOA45"
+    },
+    {
+      "id" : "template-College : SVMIT (GTU) with 8.6 CGPA. You can check out my grades at ",
+      "type" : "template",
+      "template" : "College : SVMIT (GTU) with 8.6 CGPA. You can check out my grades at "
+    },
+    {
+      "id" : "template-College : SVMIT (GTU) with 8.6 CGPA. You can check out my grades at ({link:http://bit.ly/2eAOA45}",
+      "type" : "template",
+      "template" : "College : SVMIT (GTU) with 8.6 CGPA. You can check out my grades at ({link:http://bit.ly/2eAOA45}",
+      "requirements" : [
+        {
+          "name" : "link:http://bit.ly/2eAOA45",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-College : SVMIT (GTU) with 8.6 CGPA. You can check out my grades at http://bit.ly/2eAOA45",
+      "type" : "template",
+      "template" : "College : SVMIT (GTU) with 8.6 CGPA. You can check out my grades at http://bit.ly/2eAOA45"
+    },
+    {
+      "id" : "template-College : SVMIT (GTU) with 8.6 CGPA. You can check out my grades at http://bit.ly/2eAOA45 .",
+      "type" : "template",
+      "template" : "College : SVMIT (GTU) with 8.6 CGPA. You can check out my grades at http://bit.ly/2eAOA45 ."
+    },
+    {
+      "id" : "template-Hello, {name} ",
+      "type" : "template",
+      "template" : "Hello, {name} ",
+      "requirements" : [
+        {
+          "name" : "name",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-Hello.",
+      "type" : "template",
+      "template" : "Hello."
+    },
+    {
+      "id" : "template-Hello. I am a Resume Chatbot.",
+      "type" : "template",
+      "template" : "Hello. I am a Resume Chatbot."
+    },
+    {
+      "id" : "template-Here's a link to my profile :- https://github.com/kunal047.",
+      "type" : "template",
+      "template" : "Here's a link to my profile :- https://github.com/kunal047."
+    },
+    {
+      "id" : "template-Here's a link to my profile :- https://linkedin.com/kunal047",
+      "type" : "template",
+      "template" : "Here's a link to my profile :- https://linkedin.com/kunal047"
+    },
+    {
+      "id" : "template-Here's his college .. ",
+      "type" : "template",
+      "template" : "Here's his college .. "
+    },
+    {
+      "id" : "template-If you want to look at my resume :- https://kunal047.github.io",
+      "type" : "template",
+      "template" : "If you want to look at my resume :- https://kunal047.github.io"
+    },
+    {
+      "id" : "template-Java - Music player with lyrics integrated using Swing and Musixmatch API.",
+      "type" : "template",
+      "template" : "Java - Music player with lyrics integrated using Swing and Musixmatch API."
+    },
+    {
+      "id" : "template-Playing Basketball.",
+      "type" : "template",
+      "template" : "Playing Basketball."
+    },
+    {
+      "id" : "template-Please select any option from below ...",
+      "type" : "template",
+      "template" : "Please select any option from below ...",
+      "quickreplies" : [
+        "Education",
+        "Projects",
+        "Hobbies",
+        "Github",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id" : "template-Python - Scraping of website to get data (Historical Prices of Stocks, IPL match data).",
+      "type" : "template",
+      "template" : "Python - Scraping of website to get data (Historical Prices of Stocks, IPL match data)."
+    },
+    {
+      "id" : "template-Reading Novels, Reddit, Quora.",
+      "type" : "template",
+      "template" : "Reading Novels, Reddit, Quora."
+    },
+    {
+      "id" : "template-What would you like to know about,  Kunal ?",
+      "type" : "template",
+      "template" : "What would you like to know about,  Kunal ?"
+    },
+    {
+      "id" : "template-Worked on OCR based Android Application using OpenCV.",
+      "type" : "template",
+      "template" : "Worked on OCR based Android Application using OpenCV."
+    },
+    {
+      "id" : "template-You are looking at one. ;-) . Some of the other projects he has done are :-",
+      "type" : "template",
+      "template" : "You are looking at one. ;-) . Some of the other projects he has done are :-"
+    },
+    {
+      "id" : "template-You are looking at one. ;-) . Some of the other projects he has done are :- 1) C++ - Offline Dictionary Application.",
+      "type" : "template",
+      "template" : "You are looking at one. ;-) . Some of the other projects he has done are :- 1) C++ - Offline Dictionary Application."
+    },
+    {
+      "id" : "template-You are looking at one. ;-) . Some of the other projects he has done are :- 1) C++ - Offline Dictionary Application. 2) ",
+      "type" : "template",
+      "template" : "You are looking at one. ;-) . Some of the other projects he has done are :- 1) C++ - Offline Dictionary Application. 2) "
+    },
+    {
+      "id" : "template-You are looking at one. ;-) . Some of the other projects he has done are :- 1) C++ - Offline Dictionary Application. 2) Java - Music player with lyrics integrated using Swing and Musixmatch API. 3) Python - Scraping of website to get data (Historical Prices of Stocks, IPL match data). 4) Worked on OCR based Android Application using OpenCV.",
+      "type" : "template",
+      "template" : "You are looking at one. ;-) . Some of the other projects he has done are :- 1) C++ - Offline Dictionary Application. 2) Java - Music player with lyrics integrated using Swing and Musixmatch API. 3) Python - Scraping of website to get data (Historical Prices of Stocks, IPL match data). 4) Worked on OCR based Android Application using OpenCV."
+    },
+    {
+      "id" : "template-You are looking at one. ;-) . Some of the other projects he has done are...",
+      "type" : "template",
+      "template" : "You are looking at one. ;-) . Some of the other projects he has done are..."
+    }
+  ]
+}

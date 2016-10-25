@@ -1,0 +1,9 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip MyResume.zip MyResume/app.json MyResume/entities/*.json MyResume/actions.json MyResume/stories.json MyResume/expressions.json",
+  "data" : {
+    "name" : "MyResume",
+    "description" : "A Resume bot. Ask anything about the things I love to work on, my hobbies, education, etc.",
+    "lang" : "en"
+  }
+}
